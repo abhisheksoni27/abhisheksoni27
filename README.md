@@ -11,3 +11,6 @@ At the same time, I am learning how to write great procedural skills for AI Agen
 Beyond my day job, I love tinkering, doing random experiments with AI, and building toy projects to "scratch my own itch." One of my biggest obsessions is financial markets and microstructure - I run fully automated live trading strategies, including sub-second options scalping algorithms.
 
 If you are interested in connecting, feel free to email me at abhisheksoni2720 [at] gmail [dot] com
+
+
+![](https://hit.yhype.me/github/profile?account_id=4340071)
