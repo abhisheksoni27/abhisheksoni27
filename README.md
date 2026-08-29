@@ -4,11 +4,11 @@ I am a Principal Engineer with 8+ years of professional experience building, bre
 
 I am currently building [GetMerged]([url](https://getmerged.abhishekco.de))
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/16b24dcb-94d4-4557-a6af-61458c0657ce" />
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/16b24dcb-94d4-4557-a6af-61458c0657ce" />
 
 Check out my profile on GetMerged: [abhishek-soni]([url](https://getmerged.abhishekco.de/u/abhishek-soni))
 
-<img width="954" height="538" alt="image" src="https://github.com/user-attachments/assets/4a56e2e1-e382-4d50-98dd-cf23940728d5" />
+<img width="477" height="269" alt="image" src="https://github.com/user-attachments/assets/4a56e2e1-e382-4d50-98dd-cf23940728d5" />
 
 My expertise lies in building reliable, high-throughput systems, event-driven architectures, and distributed systems. Over the last decade or so, I have had the privilege of  breaking things across backend, frontend, mobile apps, and algotrading. It's been a fun ride, to say the least. I've had my hands in pretty much everything: Go, Python, PHP, Java, JavaScript, MySQL, MongoDB, Elasticsearch, Docker, Kubernetes, and of course, AI. I enjoyed and led two pods (spanning 15+ engineers) to deliver clean, production-ready software with precision and execution discipline.
 
