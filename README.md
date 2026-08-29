@@ -2,11 +2,11 @@
 
 I am a Principal Engineer with 8+ years of professional experience building, breaking, and shipping products used by millions. I am currently working with [AmbitionBox](https://www.ambitionbox.com?utm_source=github&utm_medium=na&utm_campaign=abhisheksoni) (acquired by [Naukri.com](https://www.naukri.com?utm_source=github&utm_medium=na&utm_campaign=abhisheksoni)).
 
-I am currently building [GetMerged]([url](https://getmerged.abhishekco.de))
+I am currently building [GetMerged](https://getmerged.abhishekco.de)
 
 <img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/16b24dcb-94d4-4557-a6af-61458c0657ce" />
 
-Check out my profile on GetMerged: [abhishek-soni]([url](https://getmerged.abhishekco.de/u/abhishek-soni))
+Check out my profile on GetMerged: [abhishek-soni](https://getmerged.abhishekco.de/u/abhishek-soni)
 
 <img width="477" height="269" alt="image" src="https://github.com/user-attachments/assets/4a56e2e1-e382-4d50-98dd-cf23940728d5" />
 
